@@ -5,6 +5,8 @@
     "inapp": true,
     "reviewpopup": "yes",
     "costumbanner": "no",
+    "testMode": true,
+
     "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
     "board0": "football-wallpaper/pins/",
     "board0_name": "Trending",
@@ -18,18 +20,9 @@
     "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
     "admobNative": "ca-app-pub-3940256099942544/2247696110",
 
-    "applovinInterstitial": "e0cfd3c00814d151",
-    "applovinAppOpen": "a2c60f74e46334f7",
-    "applovinRewarded": "e22bd27ec2f2c190",
-    "applovinNative": "0d18e9b88cdd484a",
-
-    "unityGameId": "6094609",
-    "testMode": true,
-    "unityInterstitial": "Interstitial_Android",
-
     "fanInterstitial": "1388106280016746_1388107366683304",
-    "fanNativeCard": "1388106280016746_1388108453349862",   
-    "fanNativeBanner":     "1388106280016746_1388109463349761",  
+    "fanNativeCard": "1388106280016746_1388108453349862",
+    "fanNativeBanner": "1388106280016746_1388109463349761",
     "fanRewarded": "1388106280016746_1388109816683059",
 
     "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/",
