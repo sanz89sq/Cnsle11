@@ -1,0 +1,29 @@
+{
+  "AdsController": {
+    "ads": "enable",
+    "adNetwork": "admob",
+    "testads": "false",
+    "interstitialtimer": 25,
+    "adsclick": 60,
+
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it.",
+
+
+    "admobInterstitial": "ca-app-pub-7757069622252358/2569450796",
+    "admobRewarded": "ca-app-pub-7757069622252358/8588686356",
+    "admobNative": "ca-app-pub-7757069622252358/3392199997",
+    "admobAppOpen": "ca-app-pub-7757069622252358/7275604686",
+
+    "fanInterstitial": "YOUR_FACEBOOK_INTERSTITIAL_PLACEMENT_ID",
+    "fanRewarded": "",
+    "fanNative": "",
+
+    "applovinInterstitial": "7048615b3e70a56d",
+    "applovinAppOpen": "",
+    "applovinRewarded": "",
+    "applovinNative": ""
+  }
+}
