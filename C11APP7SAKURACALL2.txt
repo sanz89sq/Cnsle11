@@ -3,7 +3,7 @@
     "ads": "enable",
     "adNetwork": "admob",
     "testads": "false",
-	"inappurshase": "disable"
+	"inappurshase": "disable",
     "interstitialtimer": 25,
     "adsclick": 60,
 
